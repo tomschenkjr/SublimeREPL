@@ -24,7 +24,7 @@
                     "cmd_postfix": "\n", 
                     "env": {},
                     "suppress_echo": true, 
-                    "syntax": "Packages/Text/Plain text.tmLanguage"
+                    "syntax": "Packages/Batch File/Batch File.tmLanguage"
                     }
                 }
             ]   
